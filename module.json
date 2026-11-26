@@ -3,7 +3,7 @@
   "name": "module-billing-orders",
   "display_name": "Billing Orders",
   "description": "Quotes, carts, checkout, fraud review, agreements, order state, and change orders.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "capability",
   "provider": "Liberu\\Billing\\Orders\\OrdersServiceProvider",
   "requires": {

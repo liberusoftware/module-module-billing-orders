@@ -19,7 +19,7 @@
       "name": "module-billing-orders"
     }
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "config": {
     "allow-plugins": {
       "pestphp/pest-plugin": true
